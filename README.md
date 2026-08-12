@@ -1,7 +1,4 @@
 # SignBridge — IP Video Intercom for Deaf Communication
-## Fixed & Improved Version
-
----
 
 ## Project Structure
 
