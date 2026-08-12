@@ -16,15 +16,15 @@ intercom_fixed/
 │   └── vosk-model-small-hi-0.22/   (Hindi speech model folder)
 ├── ai_modules/
 │   ├── __init__.py
-│   └── speech.py                   (fixed Vosk module)
+│   └── speech.py                   
 ├── templates/
-│   └── index.html                  (new UI)
+│   └── index.html                  
 └── static/
-    ├── CSS/style.css               (new design)
+    ├── CSS/style.css               
     └── JS/
-        ├── socket.js               (fixed)
-        ├── webrtc.js               (fixed)
-        └── hand_tracking.js        (fixed)
+        ├── socket.js               
+        ├── webrtc.js              
+        └── hand_tracking.js       
 ```
 
 ---
